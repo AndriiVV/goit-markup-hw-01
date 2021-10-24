@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Repository withhome work #1 project
+Repository with homework #1 project
